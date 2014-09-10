@@ -16,5 +16,5 @@ Package.on_use(function(api) {
     ]
     , 'client'
   );
-  api.add_files(['lib/loading.gif'], 'client');
+  //api.add_files(['lib/loading.gif'], 'client');
 });
