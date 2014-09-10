@@ -1,8 +1,0 @@
-{
-  "name": "image-gallery",
-  "description": "blueimp image gallery packed for meteor",
-  "homepage": "https://github.com/and-fri/meteor-image-gallery",
-  "author": "and-fri",
-  "version": "0.0.1",
-  "git": "https://github.com/and-fri/meteor-image-gallery.git"
-}
